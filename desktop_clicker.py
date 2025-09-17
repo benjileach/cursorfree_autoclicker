@@ -4,7 +4,7 @@ import keyboard
 import os
 from pathlib import Path
 
-# Configure pyautogui for safety
+# Configure pyautogui for safety adnd change stuff 
 pyautogui.FAILSAFE = True  # Move mouse to corner to stop
 pyautogui.PAUSE = 0.1
 
@@ -221,4 +221,5 @@ if __name__ == "__main__":
         print("Please install: pip install pyautogui keyboard pillow")
         exit(1)
     
+
     main()
