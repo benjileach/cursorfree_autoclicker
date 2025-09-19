@@ -4,6 +4,8 @@ import keyboard
 import os
 from pathlib import Path
 
+#testing testing lets gooo 
+
 # Configure pyautogui for safety adnd change stuff 
 pyautogui.FAILSAFE = True  # Move mouse to corner to stop
 pyautogui.PAUSE = 0.1
@@ -223,3 +225,4 @@ if __name__ == "__main__":
     
 
     main()
+
